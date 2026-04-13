@@ -22,7 +22,7 @@
 ### 💻 Languages C | C++ | Python
 ### 🌐 Frontend HTML | CSS | JavaScript
 ### ⚙️ Backend Node.js 
-###     Database MongoDB
+### 🗄️  Database MongoDB
 ### 🤖 AI Tools  Gemini AI | Microsoft Copilot | Claude
 ### 🛠️ Tools  Git | GitHub | VS Code
 ---
