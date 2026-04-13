@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kourviky Shrivas
 
-💻 Frontend Developer | 🤖 Gen AI Enthusiast
+📊 Data Analyst | 💻 Frontend Developer | 🤖 Gen AI Enthusiast
 
 ---
 
@@ -21,7 +21,8 @@
 
 ### 💻 Languages C | C++ | Python
 ### 🌐 Frontend HTML | CSS | JavaScript
-### ⚙️ Backend Node.jsMongoDB
+### ⚙️ Backend Node.js 
+###     Database MongoDB
 ### 🤖 AI Tools  Gemini AI | Microsoft Copilot | Claude
 ### 🛠️ Tools  Git | GitHub | VS Code
 ---
