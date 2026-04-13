@@ -12,36 +12,18 @@
 📊 Learning Excel for data handling & analysis
 🧠 Currently focused on **DSA & GATE Preparation**
 🚀 Participant in **SIH & Hackathons 2025**
-🎯 AI-ML Intern @ AICTE
+
+## Internship
+🎯 AI-ML Interned @ AICTEE
 
 ---
-
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
-C | C++ | Python
-
-### 🌐 Frontend
-
-HTML | CSS | JavaScript
-
-### ⚙️ Backend
-
-Node.js
-
-### 🗄️ Database
-
-MongoDB
-
-### 🤖 AI Tools
-
-Gemini AI | Microsoft Copilot | Claude
-
-### 🛠️ Tools
-
-Git | GitHub | VS Code
-
+### 💻 Languages C | C++ | Python
+### 🌐 Frontend HTML | CSS | JavaScript
+### ⚙️ Backend Node.jsMongoDB
+### 🤖 AI Tools  Gemini AI | Microsoft Copilot | Claude
+### 🛠️ Tools  Git | GitHub | VS Code
 ---
 
 ## 🚀 Projects
@@ -56,7 +38,6 @@ Helping farmers with AI-driven solutions
 Text processing tool with multiple functionalities
 
 ---
-
 ## 📈 Connect With Me
 
 💼 LinkedIn
@@ -70,6 +51,6 @@ https://leetcode.com/settings/profile/
 
 ---
 
-## ⭐ Quote
+## ⭐
 
 **"Learn. Code. Build. Repeat."**
