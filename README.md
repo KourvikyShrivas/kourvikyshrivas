@@ -28,6 +28,32 @@
 ---
 
 ## 🚀 Projects
+# 📁 File Handling CRUD Project
+
+A File Handling System built using **Python 🐍** and **Streamlit 🚀** that performs CRUD (Create, Read, Update, Delete) operations on files and folders.
+
+## ✨ Features
+- 📂 Create files and folders
+- 📖 Read file content
+- ✏️ Update existing files
+- ❌ Delete files and folders
+- 🎨 Interactive and user-friendly UI using Streamlit
+- ⚡ Efficient file management system
+
+## 🛠️ Technologies Used
+- Python 🐍
+- File Handling 📄
+- Streamlit 🚀
+
+## 📌 Overview
+This project demonstrates the practical implementation of **File Handling** and **CRUD operations** in Python. The Streamlit interface provides an interactive experience for managing files and folders easily and efficiently.
+
+## 🎯 Purpose
+The main goal of this project is to strengthen concepts of:
+- File Handling 📁
+- CRUD Operations 🔄
+- Python Programming 🐍
+- Streamlit Web Applications 🌐
 
 🤖 **AI Chatbot**
 Smart conversational assistant using Generative AI
