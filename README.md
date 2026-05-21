@@ -11,7 +11,7 @@
 🤖 Diving deep into Generative AI & tools like Gemini
 📊 Learning Excel for data handling & analysis
 🧠 Currently focused on **DSA & GATE Preparation**
-🚀 Participant in **SIH & Collge and National Level Hackathons **
+🚀 Participant in **SIH , Collge and National Level Hackathons **
 
 ## Internship
 🎯 AI-ML Interned @ AICTEE
